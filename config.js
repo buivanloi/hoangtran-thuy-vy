@@ -1,5 +1,5 @@
 const nameGirl = '8/3';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'https://www.facebook.com/htthuyvy1709/photos_by';
 const eventName = 'Bùi Lợi chúc mừng ngày 8-3';
 const titleCard = 'Tặng Vy';
 const contentCard = 'Dẫu hôm nay là ngày phụ nữ. Tuy nhiên 8-3 sẽ thật thiếu vắng nếu như không dành những lời chúc cho em. Chúc Vy sẽ luôn hạnh phúc từ nay cho trở về sau và đặc biệt hãy cười nhiều lên nhé cô gái';
